@@ -32,8 +32,8 @@ The War Game is a simple card game implemented in Python where two players compe
 
 Your name: Player1
 Your name: Player2
-Player1: 18 cards
-Player2: 18 cards
+Player1: has 18 cards
+Player2: has 18 cards
 
 Round 1
 Enter 'm' to make a move, 'play again' to restart the game, or 'stop' to end the game: m
@@ -42,6 +42,7 @@ Player2 card: 4
 Player1 won the round!
 
 ...
+
 
 Game over!
 
